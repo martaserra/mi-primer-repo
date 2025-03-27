@@ -1,2 +1,2 @@
-# mi-primer-repo
-Mi primer repositorio en GitHub para explorar cómo funciona
+# ¡Hola, GitHub!
+Este es mi primer repositorio, explorando GitHub como diseñadora.
